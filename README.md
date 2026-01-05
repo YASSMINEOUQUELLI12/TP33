@@ -11,6 +11,7 @@
 - Vérifier le fonctionnement et observer les **pods** dans le cluster.
 
 ---
+<img width="1868" height="938" alt="image" src="https://github.com/user-attachments/assets/dd9cddcc-4237-4617-b83e-85dfb1f65392" />
 
 ## 🧩 Scénario
 
@@ -27,4 +28,3 @@ On dispose d’une petite API REST Spring Boot qui expose un endpoint :
 
 
 
-<img width="1868" height="938" alt="image" src="https://github.com/user-attachments/assets/dd9cddcc-4237-4617-b83e-85dfb1f65392" />
