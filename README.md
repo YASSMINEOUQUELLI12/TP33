@@ -23,4 +23,8 @@ On dispose d’une petite API REST Spring Boot qui expose un endpoint :
 {
   "message": "Hello from Spring Boot on Kubernetes!"
 }
+
+
+
+
 <img width="1868" height="938" alt="image" src="https://github.com/user-attachments/assets/dd9cddcc-4237-4617-b83e-85dfb1f65392" />
